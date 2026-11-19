@@ -1,0 +1,8 @@
+streamlit>=1.50
+supabase>=2.18
+pandas>=2.2
+altair>=5
+pillow>=10
+openpyxl>=3.1
+tzdata
+easyocr>=0.1.2
